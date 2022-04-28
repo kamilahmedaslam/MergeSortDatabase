@@ -1,4 +1,6 @@
 #include <cstdio>
+#include "leveldb/db.h"
+
 
 /**
  * An attribute schema. You should probably modify
