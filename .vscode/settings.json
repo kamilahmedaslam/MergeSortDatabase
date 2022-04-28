@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "files.associations": {
         "array": "cpp",
         "deque": "cpp",
@@ -13,5 +14,16 @@
         "regex": "cpp",
         "*.tcc": "cpp",
         "istream": "cpp"
+=======
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "__tree": "cpp",
+        "algorithm": "cpp",
+        "fstream": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+>>>>>>> b489748d0639897fd9b844e254d629bc11dc2445
     }
 }

@@ -1,7 +1,12 @@
 #include <cstdio>
+<<<<<<< HEAD
 #include <string>
 
 using namespace std;
+=======
+#include "leveldb/db.h"
+
+>>>>>>> b489748d0639897fd9b844e254d629bc11dc2445
 
 /**
  * An attribute schema. You should probably modify
